@@ -19,4 +19,4 @@ Components/Deliverables
 13.	Scripts to implement the security model.
 14.	Scripts to test the security model.
 
-Database will model sports.
+Database will be based off of the Gatton Academy where I went to high school.
