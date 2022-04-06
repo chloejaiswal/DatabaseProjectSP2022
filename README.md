@@ -18,3 +18,5 @@ Components/Deliverables
 12.	Describe the Security model (put this in a document).
 13.	Scripts to implement the security model.
 14.	Scripts to test the security model.
+
+Database will model sports.
