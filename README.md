@@ -18,4 +18,3 @@ Components/Deliverables
 12.	Describe the Security model (put this in a document).
 13.	Scripts to implement the security model.
 14.	Scripts to test the security model.
-![image](https://user-images.githubusercontent.com/10899551/161873245-7045a3d0-4ff2-4028-beaa-9f7cc3763361.png)
