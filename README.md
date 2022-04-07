@@ -1,4 +1,4 @@
-# DatabaseProjectSP2022
+# DatabaseProject Spring 2022
 Database Project for Database/Design Development Spring 2022 Semester
 
 Overview
