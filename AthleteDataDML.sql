@@ -1,4 +1,6 @@
-/* DML Script to load data into  the Athlete table
+/* Chloe Jaiswal
+4/7/2022
+DML Script to load data into  the Athlete table
 */
 USE Soccer
 

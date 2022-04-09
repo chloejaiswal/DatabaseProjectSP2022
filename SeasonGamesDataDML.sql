@@ -1,4 +1,6 @@
-/* DML Script to load data into games from 2022 season table
+/* Chloe Jaiswal
+4/7/2022
+DML Script to load data into games from 2022 season table
 */ 
 
 USE Soccer
