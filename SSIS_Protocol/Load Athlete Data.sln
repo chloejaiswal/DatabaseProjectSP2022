@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Load Athlete Data", "Load Athlete Data\Load Athlete Data.dtproj", "{F2783D6F-7EC9-4D1B-AB6B-9EFF4385DB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2783D6F-7EC9-4D1B-AB6B-9EFF4385DB49}.Development|Default.ActiveCfg = Development
+		{F2783D6F-7EC9-4D1B-AB6B-9EFF4385DB49}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75926DA7-B57D-4968-B5B4-4BB9120A166D}
+	EndGlobalSection
+EndGlobal

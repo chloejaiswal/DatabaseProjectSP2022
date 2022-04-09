@@ -1,0 +1,11 @@
+ATHLETE_ID,ATHLETE_FIRST_NAME,ATHLETE_LAST_NAME,ATHLETE_AGE
+1,Christen,Press,33
+2,Alex,Morgan,32
+3,Mallory,Pugh,23
+4,Sydney,Leroux,31
+5,Rose,Lavelle,26
+6,Luciano,Acosta,27
+7,Jake,Morris,23
+8,Wil,Trapp,29
+9,Rodrigo,Schlegel,25
+10,Lewis,Morgan,25
