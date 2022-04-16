@@ -1,7 +1,7 @@
 USE Soccer
 GO
 
-/* Procedure that shows  all of the games that the athlete Mallory pugh has played in along with her game stats
+/*Procedure that shows  all of the games that the athlete Mallory pugh has played in along with her game stats
 */
 CREATE PROCEDURE [Mallory Pugh]
 AS
