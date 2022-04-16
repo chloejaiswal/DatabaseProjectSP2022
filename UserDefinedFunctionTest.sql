@@ -1,4 +1,6 @@
-/* Tests user defined function to parse together the first and last name
+/* Chloe Jaiswal
+4/15/2022
+Tests user defined function to parse together the first and last name
 */
 USE Soccer
 GO
