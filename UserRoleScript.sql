@@ -2,17 +2,6 @@
 -- 4/18/2022
 -- Script to create roles, logins and assign permissions
 
--- Create login for system admin role
-CREATE LOGIN JohnDoe
-	WITH PASSWORD = 'Soccer2022!' MUST_CHANGE,
-	CHECK_EXPIRATION = ON;
-GO
-
--- Create system admin role
-USE master;
-CREATE SERVER ROLE nationalAdmin AUTHORIZATION JohnDoe;
-GO
-
 --------------------------------------------------------
 
 -- Create NSA role
